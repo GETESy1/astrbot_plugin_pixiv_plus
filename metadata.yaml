@@ -1,0 +1,7 @@
+name: astrbot_plugin_pixiv_plus
+display_name: Pixiv Plus
+version: 1.0.0
+author: GETESy
+description: Pixiv 图片搜索增强插件，支持标签搜索、随机图片、按 ID 获取、每日一图定时推送。自动识别 R-18 标签：R-18 作品仅发送链接（i.pixiv.re），非 R-18 作品通过 i.yuki.sh 加速下载并发送。
+dependencies:
+  - aiohttp
