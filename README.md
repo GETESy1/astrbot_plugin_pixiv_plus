@@ -1,4 +1,6 @@
 # Pixiv Plus - AstrBot 插件
+## **因为yuki.sh api的关闭所以本项目存档‼‼‼**
+
 
 基于 Lolicon API v2 和 i.yuki.sh 与 i.pixiv.re 的 Pixiv 图片搜索插件
 
